@@ -69,9 +69,11 @@
  <Files>
   <SessionOpenFile windowGroup="DockEditLeft" x="20" y="50" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../main.c" selected="0" top="125" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="38" y="14" useTextEdit="1" openedFrom="D:/Genadi/dwm1001-examples-master/examples/ss_twr_init_int_T/ss_init_main.c" useBinaryEdit="0" left="0" path="../ss_init_main.h" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="175" useTextEdit="1" openedFrom="D:/Genadi/dwm1001-examples-master/examples/ss_twr_init_int_T/main.c" useBinaryEdit="0" left="0" path="../ss_init_main.c" selected="0" top="151" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="31" useTextEdit="1" openedFrom="D:/Genadi/dwm1001-examples-master/examples/ss_twr_init_int_T/main.c" useBinaryEdit="0" left="0" path="../ss_init_main.c" selected="1" top="10" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../UART/UART.c" selected="0" top="60" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="970" useTextEdit="1" openedFrom="C:/Genadi/Work/army/dwm1001-examples-master/examples/ss_twr_init_int_T/ss_init_main.c" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device.c" selected="1" top="957" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="968" useTextEdit="1" openedFrom="C:/Genadi/Work/army/dwm1001-examples-master/examples/ss_twr_init_int_T/ss_init_main.c" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device.c" selected="0" top="957" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="40" y="56" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/libraries/bsp/bsp.c" selected="0" top="27" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="250" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../../nRF5_SDK_14.2.0/components/drivers_nrf/spi_master/nrf_drv_spi.c" selected="0" top="234" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="ss_twr_init_int" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

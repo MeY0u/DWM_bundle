@@ -51,11 +51,11 @@ int writetospi( uint16 headerLength, const uint8 *headerBuffer, uint32 bodylengt
 decaIrqStatus_t decamutexon(void);
 void decamutexoff(decaIrqStatus_t s);
 
-#if defined(BOARD_DW1001_DEV)
+//#if defined(BOARD_DW1001_DEV)
 #define SPI_CS_PIN   17 /**< SPI CS Pin.*/
-#else
-#error "Example is not supported on that board."
-#endif
+//#else
+//#error "Example is not supported on that board."
+//#endif
 
 #define SPI_INSTANCE  1 /**< SPI instance index. */
 static const nrf_drv_spi_t spi = NRF_DRV_SPI_INSTANCE(SPI_INSTANCE);  /**< SPI instance. */

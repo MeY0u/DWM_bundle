@@ -73,5 +73,5 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../UART/UART.c" selected="0" top="60" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="970" useTextEdit="1" openedFrom="C:/Genadi/Work/army/dwm1001-examples-master/examples/ss_twr_init_int_T/ss_init_main.c" useBinaryEdit="0" left="0" path="../../../deca_driver/deca_device.c" selected="1" top="957" codecName="Default"/>
  </Files>
- <ARMCrossStudioWindow activeProject="ss_twr_init_int" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3711"/>
+ <ARMCrossStudioWindow activeProject="ss_twr_init_int" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="nrf52832_xxaa" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>

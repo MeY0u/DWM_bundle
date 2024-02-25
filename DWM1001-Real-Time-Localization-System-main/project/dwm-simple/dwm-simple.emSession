@@ -23,32 +23,32 @@
  <Project>
   <ProjectSessionItem path="dwm-simple"/>
   <ProjectSessionItem path="dwm-simple;dwm-simple"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;boards"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;deca_driver"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;deca_driver;port"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;spi_main_files"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Source"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Internal"/>
   <ProjectSessionItem path="dwm-simple;dwm-simple;Header"/>
   <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;config"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;license"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;ARM"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;ARM;nrf51"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;ARM;nrf52"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;CMSIS"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;CMSIS;nrf51"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;CMSIS;nrf52"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;GCC"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;GCC;nrf51"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;GCC;nrf52"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;IAR"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;IAR;nrf51"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;IAR;nrf52"/>
   <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;source"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;source;include"/>
   <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;source;portable"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Internal"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;Source"/>
-  <ProjectSessionItem path="dwm-simple;dwm-simple;spi_main_files"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;source;include"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;IAR"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;IAR;nrf52"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;IAR;nrf51"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;GCC"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;GCC;nrf52"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;GCC;nrf51"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;CMSIS"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;CMSIS;nrf52"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;CMSIS;nrf51"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;ARM"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;ARM;nrf52"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;portable;ARM;nrf51"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;license"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;Header;freertos;config"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;deca_driver"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;deca_driver;port"/>
+  <ProjectSessionItem path="dwm-simple;dwm-simple;boards"/>
  </Project>
  <Register1>
   <RegisterWindow visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/msp;CPU/psp;CPU/cfbp" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="dwm-simple" decimalNodes="" octalNodes="" unsignedNodes=""/>
@@ -88,16 +88,18 @@
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../ss_init_main.h" selected="0" top="0" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="10" y="71" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/source/list.c" selected="0" top="57" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/deca_device_api.h" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/deca_param_types.h" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="22" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/deca_param_types.h" selected="0" top="22" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="21" y="74" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/portable/CMSIS/nrf52/port_cmsis.c" selected="0" top="43" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="24" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/port/port_platform.h" selected="0" top="18" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="53" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/port/port_platform.h" selected="0" top="35" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/deca_types.h" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="74" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/portable/ARM/nrf51/port.c" selected="0" top="54" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="51" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/components/drivers_nrf/spi_master/nrf_drv_spi.h" selected="0" top="26" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="74" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/portable/ARM/nrf52/port.c" selected="0" top="45" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="91" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/portable/ARM/nrf51/port.c" selected="0" top="66" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="106" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/components/drivers_nrf/spi_master/nrf_drv_spi.h" selected="0" top="85" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="23" y="92" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/portable/ARM/nrf52/port.c" selected="1" top="70" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="9" y="69" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/external/freertos/source/croutine.c" selected="0" top="42" codecName="Default"/>
   <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/port/port_platform.c" selected="0" top="0" codecName="Default"/>
-  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/deca_device.c" selected="1" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../include/deca_driver/deca_device.c" selected="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="0" openedFrom="" useBinaryEdit="0" left="0" path="output/compiler/deca_range_tables.o" selected="0" top="21" codecName=""/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="83" useTextEdit="1" openedFrom="" useBinaryEdit="0" left="0" path="../../nordicsemi/components/boards/boards.h" selected="0" top="59" codecName="Default"/>
  </Files>
  <ARMCrossStudioWindow activeProject="dwm-simple" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="dwm1001_configuration" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Jonathan/Documents/GitHub/Decawave/DWM1001_DWM1001-DEV_MDEK1001_Sources_and_Docs_v9/sketches/anchor/dwm/include" debugSearchPath="" autoConnectCapabilities="3199"/>
 </session>
